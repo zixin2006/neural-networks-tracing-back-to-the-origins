@@ -1,0 +1,29 @@
+AND Logic Gate
+
+inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])  # AND inputs
+expected_output = np.array([[0], [0], [0], [1]])      # AND outputs
+
+# Train and test the network on the AND problem as in the XOR example.
+
+OR Logic Gate
+
+inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]]) 
+expected_output = np.array([[0], [1], [1], [1]])    
+
+NAND Logic Gate
+
+inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]]) 
+expected_output = np.array([[1], [1], [1], [0]])   
+
+Autoencoder
+
+inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]]) 
+expected_output = inputs                         
+
+3-bit Parity Check
+
+inputs = np.array([
+    [0, 0, 0], [0, 0, 1], [0, 1, 0], [0, 1, 1],
+    [1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 1]
+])
+expected_output = np.array([[0], [1], [1], [0], [1], [0], [0], [1]])  
