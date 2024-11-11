@@ -4,7 +4,7 @@ This repository contains resources and analyses tracing the development of key f
 
 ## Getting Started
 
-This repo contains detailed introduction and analysis for the monumental papers and important mathematical theorems throughout the development of artificial intelligence: [MP Neuron, Perceptron, Back-propagation, Cognitron, Neocognitron, Elman Network, NPLM, Universal Approximation Theorem]. Each folder contains resources specific to its topic, including theoretical explanations, code samples, and images where applicable. To explore a specific topic, navigate to the corresponding folder.
+This repo contains detailed introduction and analyses for the monumental papers and important mathematical theorems throughout the development of artificial intelligence: [MP Neuron, Perceptron, Back-propagation, Cognitron, Neocognitron, Elman Network, NPLM, Universal Approximation Theorem]. Each folder contains resources specific to its topic, including theoretical explanations, code samples, and images where applicable. To explore a specific topic, navigate to the corresponding folder.
 
 1. **Read the articles** in `articles_ENG` or `articles_CHN` for an overview and detailed explanations of each model or concept.
 2. **Check and run the code samples** to exercise your muscles! (if available).
