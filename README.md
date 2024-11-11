@@ -1,6 +1,6 @@
 # Tracing Back to the Origins 🧠
 
-This repository contains resources and analyses tracing the development of key foundational concepts in neural networks and deep learning. Each folder represents a significant model or theoretical contribution to the field, along with explanations, code, and other resources to facilitate understanding of these pioneering works.
+This repository contains resources and analyses tracing the development of key foundational concepts in neural networks and deep learning. Each folder represents a significant model or theoretical contribution to the field, along with explanations, code, and other resources.
 
 ## Getting Started
 
